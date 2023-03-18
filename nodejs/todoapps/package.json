@@ -1,14 +1,24 @@
 {
   "name": "todoapps",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "gitbiginner",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^7.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbiginner/cloneengineers.git#main"
+  },
+  "bugs": {
+    "url": "https://github.com/gitbiginner/cloneengineers/issues"
+  },
+  "homepage": "https://github.com/gitbiginner/cloneengineers/tree/main#readme",
+  "description": ""
 }
